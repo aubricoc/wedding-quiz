@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lady &amp; Jordi</string>
+    <string name="start">Iniciar Test</string>
+    <string name="select_language">Selecciona Idioma</string>
+    <string name="language_es">Castellano</string>
+    <string name="language_ca">Català</string>
+</resources>

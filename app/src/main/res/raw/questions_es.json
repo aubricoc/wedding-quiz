@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "question": "¿En qué año terminó Lady la universidad?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "2005"
+      },
+      {
+        "id": 2,
+        "answer": "2003"
+      },
+      {
+        "id": 3,
+        "answer": "2004"
+      },
+      {
+        "id": 4,
+        "answer": "2006"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "¿En qué estación llegó Lady a vivir a España?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Invierno"
+      },
+      {
+        "id": 2,
+        "answer": "Verano"
+      },
+      {
+        "id": 3,
+        "answer": "Primavera"
+      },
+      {
+        "id": 4,
+        "answer": "Otoño"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "¿En cuántos apartamentos ha vivido Lady en España?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "13"
+      },
+      {
+        "id": 2,
+        "answer": "3"
+      },
+      {
+        "id": 3,
+        "answer": "10"
+      },
+      {
+        "id": 4,
+        "answer": "5"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál fué el último curso que estudió Lady?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Fisioterapia Canina"
+      },
+      {
+        "id": 2,
+        "answer": "Auriculoterapia"
+      },
+      {
+        "id": 3,
+        "answer": "Cirugía Pediátrica"
+      },
+      {
+        "id": 4,
+        "answer": "Quiromasaje"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "¿Cuántos pares de Converse tiene Lady?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "6"
+      },
+      {
+        "id": 2,
+        "answer": "3"
+      },
+      {
+        "id": 3,
+        "answer": "8"
+      },
+      {
+        "id": 4,
+        "answer": "10"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "¿Dónde fué bautizado Jordi?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Palau de Noguera"
+      },
+      {
+        "id": 2,
+        "answer": "Tremp"
+      },
+      {
+        "id": 3,
+        "answer": "Barcelona"
+      },
+      {
+        "id": 4,
+        "answer": "Lleida"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál es el combinado preferido de Jordi?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jameson con ginger ale"
+      },
+      {
+        "id": 2,
+        "answer": "Jameson con refresco de pomelo"
+      },
+      {
+        "id": 3,
+        "answer": "Larios con tónica Schweppes"
+      },
+      {
+        "id": 4,
+        "answer": "Martini con ginebra"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "¿En qué fecha llegó Jordi a Barcelona?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "11 de Septiembre de 2001"
+      },
+      {
+        "id": 2,
+        "answer": "23 de Septiembre de 2001"
+      },
+      {
+        "id": 3,
+        "answer": "11 de Septiembre de 2002"
+      },
+      {
+        "id": 4,
+        "answer": "23 de Septiembre de 2002"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "¿En qué carrera se matriculó Jordi por primera vez?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Electrónica"
+      },
+      {
+        "id": 2,
+        "answer": "Electricidad"
+      },
+      {
+        "id": 3,
+        "answer": "Informática"
+      },
+      {
+        "id": 4,
+        "answer": "Telecomunicaciones"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál fué el primer trabajo remunerado de Jordi?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Mecánico"
+      },
+      {
+        "id": 2,
+        "answer": "Teleoperador"
+      },
+      {
+        "id": 3,
+        "answer": "Programador Informático"
+      },
+      {
+        "id": 4,
+        "answer": "Camarero"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "¿En qué piso viven?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "1º 2ª"
+      },
+      {
+        "id": 2,
+        "answer": "1º 2ª A"
+      },
+      {
+        "id": 3,
+        "answer": "2º 1ª"
+      },
+      {
+        "id": 4,
+        "answer": "2º 1ª A"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "¿Dónde hicieron el primer viaje juntos?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Ginebra"
+      },
+      {
+        "id": 2,
+        "answer": "Cerdeña"
+      },
+      {
+        "id": 3,
+        "answer": "Estocolmo"
+      },
+      {
+        "id": 4,
+        "answer": "París"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "¿Cuántos años tiene Xin?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "8"
+      },
+      {
+        "id": 2,
+        "answer": "7"
+      },
+      {
+        "id": 3,
+        "answer": "6"
+      },
+      {
+        "id": 4,
+        "answer": "9"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "¿En qué pueblo de Colombia se prometieron?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Barichara"
+      },
+      {
+        "id": 2,
+        "answer": "Bucaramanga"
+      },
+      {
+        "id": 3,
+        "answer": "Salento"
+      },
+      {
+        "id": 4,
+        "answer": "Lebrija"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "¿Qué electrodoméstico no tienen en casa?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Televisor"
+      },
+      {
+        "id": 2,
+        "answer": "Robot de limpieza"
+      },
+      {
+        "id": 3,
+        "answer": "Batidora"
+      },
+      {
+        "id": 4,
+        "answer": "Home theater"
+      }
+    ]
+  }
+]

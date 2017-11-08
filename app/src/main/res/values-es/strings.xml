@@ -1,0 +1,5 @@
+<resources>
+    <string name="insert_name">Introduzca su nombre y apellidos</string>
+    <string name="send_data">Enviando los resultados…</string>
+    <string name="thanks">Muchas gracias por participar!!!</string>
+</resources>

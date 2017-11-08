@@ -1,0 +1,5 @@
+<resources>
+    <string name="insert_name">Introdueixi el seu nom i cognoms</string>
+    <string name="send_data">Enviant els resultats…</string>
+    <string name="thanks">Moltes gràcies per participar!!!</string>
+</resources>

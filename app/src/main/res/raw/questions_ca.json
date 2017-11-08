@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "question": "¿Quin any va acabar la Lady la universitat?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "2005"
+      },
+      {
+        "id": 2,
+        "answer": "2003"
+      },
+      {
+        "id": 3,
+        "answer": "2004"
+      },
+      {
+        "id": 4,
+        "answer": "2006"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "¿A quina estació va arribar la Lady a viure a Espanya?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Hivern"
+      },
+      {
+        "id": 2,
+        "answer": "Estiu"
+      },
+      {
+        "id": 3,
+        "answer": "Primavera"
+      },
+      {
+        "id": 4,
+        "answer": "Tardor"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "¿A quants apartaments ha viscut la Lady a España?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "13"
+      },
+      {
+        "id": 2,
+        "answer": "3"
+      },
+      {
+        "id": 3,
+        "answer": "10"
+      },
+      {
+        "id": 4,
+        "answer": "5"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "¿Quin va ser l'últim curs que va estudiar la Lady?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Fisioteràpia Canina"
+      },
+      {
+        "id": 2,
+        "answer": "Auriculoteràpia"
+      },
+      {
+        "id": 3,
+        "answer": "Cirurgia Pediàtrica"
+      },
+      {
+        "id": 4,
+        "answer": "Quiromassatge"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "¿Quants parells de Converse té la Lady?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "6"
+      },
+      {
+        "id": 2,
+        "answer": "3"
+      },
+      {
+        "id": 3,
+        "answer": "8"
+      },
+      {
+        "id": 4,
+        "answer": "10"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "¿On va ser batejat el Jordi?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Palau de Noguera"
+      },
+      {
+        "id": 2,
+        "answer": "Tremp"
+      },
+      {
+        "id": 3,
+        "answer": "Barcelona"
+      },
+      {
+        "id": 4,
+        "answer": "Lleida"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "¿Quin és el combinat preferit del Jordi?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jameson amb ginger ale"
+      },
+      {
+        "id": 2,
+        "answer": "Jameson amb refresc de pomelo"
+      },
+      {
+        "id": 3,
+        "answer": "Larios amb tònica Schweppes"
+      },
+      {
+        "id": 4,
+        "answer": "Martini amb ginebra"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "¿A quina data va arribar el Jordi a Barcelona?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "11 de setembre del 2001"
+      },
+      {
+        "id": 2,
+        "answer": "23 de setembre del 2001"
+      },
+      {
+        "id": 3,
+        "answer": "11 de setembre del 2002"
+      },
+      {
+        "id": 4,
+        "answer": "23 de setembre del 2002"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "¿A quina carrera es va matricular el Jordi per primer cop?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Electrònica"
+      },
+      {
+        "id": 2,
+        "answer": "Electricitat"
+      },
+      {
+        "id": 3,
+        "answer": "Informàtica"
+      },
+      {
+        "id": 4,
+        "answer": "Telecomunicacions"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "¿Quina va ser la primera feina remunerada del Jordi?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Mecànic"
+      },
+      {
+        "id": 2,
+        "answer": "Teleoperador"
+      },
+      {
+        "id": 3,
+        "answer": "Programador Informàtic"
+      },
+      {
+        "id": 4,
+        "answer": "Cambrer"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "¿En quin pis viuen?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "1r 2a"
+      },
+      {
+        "id": 2,
+        "answer": "1r 2a A"
+      },
+      {
+        "id": 3,
+        "answer": "2n 1a"
+      },
+      {
+        "id": 4,
+        "answer": "2n 1a A"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "¿On van fer el primer viatge junts?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Ginebra"
+      },
+      {
+        "id": 2,
+        "answer": "Sardenya"
+      },
+      {
+        "id": 3,
+        "answer": "Estocolm"
+      },
+      {
+        "id": 4,
+        "answer": "París"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "¿Quants anys té el Xin?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "8"
+      },
+      {
+        "id": 2,
+        "answer": "7"
+      },
+      {
+        "id": 3,
+        "answer": "6"
+      },
+      {
+        "id": 4,
+        "answer": "9"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "¿A quin poble de Colòmbia es van prometre?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Barichara"
+      },
+      {
+        "id": 2,
+        "answer": "Bucaramanga"
+      },
+      {
+        "id": 3,
+        "answer": "Salento"
+      },
+      {
+        "id": 4,
+        "answer": "Lebrija"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "¿Quin electrodomèstic no tenen a casa?",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Televisor"
+      },
+      {
+        "id": 2,
+        "answer": "Robot de neteja"
+      },
+      {
+        "id": 3,
+        "answer": "Batidora"
+      },
+      {
+        "id": 4,
+        "answer": "Home theater"
+      }
+    ]
+  }
+]
